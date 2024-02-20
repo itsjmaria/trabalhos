@@ -1,0 +1,22 @@
+CONCEITOS:
+NEUTRALIDADE DA REDE: Significa que todos os dados devem ser tratados de maneira imparcial pelos provedores de serviços de internet (ISPs), sem discriminação, bloqueio ou priorização com base em interesses comerciais ou preferências de conteúdo.
+A ideia por trás da neutralidade da rede é garantir que a internet permaneça aberta e livre, permitindo que os usuários acessem e compartilhem informações sem restrições indevidas.
+A neutralidade da rede é considerada importante para promover a inovação, a concorrência e a liberdade de expressão na internet, garantindo que todos os usuários tenham acesso igualitário aos recursos online.
+
+ZERO RATING:É quando o trafego de uma rede especifica não conta no seu plano de internet, porém usa seus dados pessoais ''em troca'' da gratuidade.
+
+MEMÓRIA (COMPUTAÇÃO): Na computação, memória refere-se ao componente de hardware de um computador ou dispositivo eletrônico que é usado para armazenar dados temporariamente, permitindo que o processador acesse 
+rapidamente esses dados para executar operações. A memória é essencial para o funcionamento de qualquer sistema computacional,
+pois fornece espaço de armazenamento para programas em execução, dados em uso e outras informações necessárias para o funcionamento do dispositivo.
+exemplos: Memória RAM, Memória Cache, Memória ROM
+
+VARIÁVEL (COMPUTAÇÃO): Uma variável é um local de armazenamento nomeado que contém um valor ou informações que podem ser modificadas durante a execução de um programa de computador. 
+As variáveis são fundamentais para a programação, pois permitem que os programadores armazenem e manipulem dados de forma dinâmica.
+
+SERVIDOR (COMPUTAÇÃO):Um servidor é um programa de software ou um dispositivo de hardware que fornece serviços, recursos ou funcionalidades para outros dispositivos ou programas, conhecidos como clientes. 
+Os servidores são fundamentais para a comunicação e interação em redes de computadores, permitindo que os clientes acessem e utilizem recursos compartilhados ou executem determinadas tarefas.
+
+fontes:
+- chatgpt
+- https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+- https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291
