@@ -1,0 +1,11 @@
+Um algoritmo na computação é uma sequência finita e bem definida de instruções ou passos que descreve a solução de um problema. Essas instruções são projetadas para serem executadas por um computador 
+e geralmente envolvem a manipulação de dados, realizando operações como cálculos matemáticos, comparações lógicas, leitura e escrita de informações. Eles são fundamentais para a resolução eficiente de problemas computacionais, 
+ajudando a transformar uma entrada em uma saída desejada através de um conjunto de operações lógicas e aritméticas. Eles podem variar em complexidade, desde algoritmos simples para tarefas básicas até algoritmos sofisticados para problemas mais complexos.
+Os algoritmos devem ser precisos, completos e eficientes, devem produzir o resultado correto para todas as entradas válidas, lidar com todas as condições possíveis e executar em tempo razoável. 
+Além disso, os algoritmos devem ser claramente definidos e compreensíveis para os seres humanos, facilitando sua implementação, teste e manutenção. Os algoritmos são a base de toda a computação,sendo utilizados em uma ampla gama de aplicações, desde o desenvolvimento de
+software e algoritmos de busca na web até problemas de otimização, inteligência artificial e criptografia. A capacidade de projetar e analisar algoritmos eficientes é uma habilidade fundamental para profissionais de
+computação e ciência da computação. É muito importante se atentar que o computador não entende erros. Para ser preciso com o computador é preciso ter:
+- descrição narrativa
+- fluxograma
+- pseudocódigo
+- programa
