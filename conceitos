@@ -20,3 +20,31 @@ fontes:
 - chatgpt
 - https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
 - https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291
+
+JURIMETRIA: A jurimetria é uma disciplina interdisciplinar que combina o direito com métodos estatísticos e da ciência de dados. Ela envolve a aplicação de técnicas quantitativas para analisar padrões, 
+tendências e comportamentos no sistema jurídico. Por meio da coleta e análise de dados, a jurimetria busca entender melhor como as leis são aplicadas na prática, examinar a eficácia de diferentes políticas jurídicas
+e prever resultados judiciais. Essa abordagem permite uma compreensão mais objetiva e baseada em evidências do funcionamento do sistema legal, contribuindo para uma tomada de decisão mais informada por parte de advogados, juízes, legisladores 
+e outros profissionais do direito.
+
+SISTEMA DE ARQUIVOS: 
+Um sistema de arquivos é uma estrutura de dados organizada em um computador para armazenar, organizar e recuperar arquivos de forma eficiente. Ele fornece uma maneira de organizar os dados em unidades de armazenamento, 
+como discos rígidos, SSDs ou dispositivos de armazenamento em rede. O sistema de arquivos define como os arquivos são nomeados, organizados em diretórios hierárquicos e acessados por aplicativos e usuários.
+
+BANCO DE DADOS: Um banco de dados é um sistema organizado para armazenar, gerenciar e recuperar grandes volumes de dados de forma eficiente e estruturada. Ele é projetado para permitir o armazenamento 
+seguro e a recuperação rápida de informações, facilitando a manipulação e o acesso aos dados por meio de consultas. Os bancos de dados consistem em tabelas, que são estruturas que organizam os dados em linhas e colunas.
+Cada tabela é composta por registros individuais (linhas) que representam entidades específicas e atributos (colunas) que definem as características dessas entidades.
+Os dados são armazenados de forma persistente em disco, garantindo que permaneçam disponíveis mesmo após o desligamento do sistema.
+
+REDE NEURAL ARTIFICIAL: Uma rede neural artificial (RNA) é um modelo computacional inspirado no funcionamento do cérebro humano, projetado para aprender a reconhecer padrões complexos nos dados e realizar tarefas específicas.
+Ela consiste em um conjunto de unidades interconectadas, chamadas neurônios artificiais, que são organizadas em camadas e operam de forma cooperativa para processar informações.
+
+DADOS:Em computação, dados referem-se a qualquer informação que pode ser processada, armazenada, ou transmitida por um sistema computacional. Esses dados podem assumir diferentes formas, incluindo texto, números, imagens, áudio, vídeo, entre outros formatos. 
+Os dados são a matéria-prima que alimenta os processos de computação e análise, sendo essenciais para o funcionamento de sistemas de software e hardware.
+
+Os dados são frequentemente organizados em estruturas mais complexas para facilitar o armazenamento e a manipulação eficiente. Por exemplo, em bancos de dados, os dados são geralmente estruturados em tabelas com linhas e colunas, enquanto em arquivos de texto podem ser organizados em linhas ou páginas.
+
+fontes:
+- https://www.projuris.com.br/blog/jurimetria/#:~:text=Segundo%20a%20ABJ%20(Associa%C3%A7%C3%A3o%20Brasileira,fazer%20parte%20do%20mundo%20jur%C3%ADdico.
+- https://www.drtransformacao.digital/post/dados-em-inform%C3%A1tica
+- https://sites.icmc.usp.br/andre/research/neural/
+- chatgpt
