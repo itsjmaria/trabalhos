@@ -1,0 +1,8 @@
+Para executar este código em Python, você pode salvá-lo como "hello.py" e, em seguida, executá-lo no terminal com o comando python hello.py.
+Para executar este código em JavaScript, você pode salvá-lo como "hello.js" e, em seguida, executá-lo em um ambiente Node.js com o comando node hello.js, ou pode executá-lo no console do navegador.
+Para executar este código em Java, você precisa salvá-lo como "HelloWorld.java", compilá-lo com o comando javac HelloWorld.java e, em seguida, executar o arquivo resultante com o comando java HelloWorld.
+
+
+JavaScript: É uma linguagem de script, tipicamente usada para programação do lado do cliente em navegadores da web.
+Java: É uma linguagem de programação de propósito geral, orientada a objetos, usada principalmente para desenvolvimento de aplicativos corporativos e para criação de aplicativos Android.
+Python: É uma linguagem de programação interpretada de alto nível, conhecida pela sua sintaxe simples e legibilidade, amplamente usada em desenvolvimento web, análise de dados, automação e IA.
