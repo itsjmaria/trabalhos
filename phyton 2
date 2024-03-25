@@ -1,0 +1,25 @@
+# Exemplo de códigos da apresentação
+
+# Operadores lógicos
+a = True
+b = False
+
+# AND lógico
+print("AND lógico:", a and b)
+
+# OR lógico
+print("OR lógico:", a or b)
+
+# NOT lógico
+print("NOT lógico para a:", not a)
+print("NOT lógico para b:", not b)
+
+# Ordem de precedência dos operadores lógicos:
+# A ordem de precedência dos operadores lógicos é:
+# NOT > AND > OR
+
+# Modificando a ordem das operações lógicas
+# Por exemplo, usando parênteses para alterar a ordem de precedência
+c = True
+d = False
+print("(c and d) or (not c):", (c and d) or (not c))
